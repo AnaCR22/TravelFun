@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="Introduction" target="introduction"/>
+
+  <tocitem text="Reservation">
+    <tocitem text="Start the Reservation" target="startReservation"/>
+    <tocitem text="End the Reservation" target="endReservation"/>
+  </tocitem>
+
+  <tocitem text="Browse and Summary">
+    <tocitem text="Browse the Catalog" target="browseCatalog"/>
+    <tocitem text="Reservation Summary" target="reservationSummary"/>
+    <tocitem text="Registration" target="registration"/>
+  </tocitem>
+
+  <tocitem text="Game and Prizes">
+    <tocitem text="Play the Game" target="playGame"/>
+  </tocitem>
+
+
+</toc>
